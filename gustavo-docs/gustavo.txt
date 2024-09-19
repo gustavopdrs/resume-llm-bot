@@ -1,0 +1,55 @@
+Gustavo Pedroso Gal is a 23-year-old Computer Science graduate from IFSUL - Instituto Federal Sul-rio-grandense. He currently holds dual roles as Tech Lead and Data Analyst at Ápis Company, leveraging his skills in data analysis, project management, and technical leadership.
+
+As a Tech Lead since April 2024, Gustavo manages a multidisciplinary team, oversees project management, and drives innovation in the company. He is responsible for developing key performance indicators (KPIs), implementing Customer Relationship Management (CRM) systems, automating tasks, and managing website deployment. Additionally, he creates dashboards and Business Intelligence (BI) tools to track business performance.
+
+In his previous role as Data Analyst (December 2023 to April 2024), Gustavo focused on presenting data insights through visualizations using tools like Google Analytics, Google Tag Manager, SQL, DAX, Power BI, and Excel. He contributed to enhancing business intelligence for clients by implementing CRMs and automating daily tasks.
+
+Gustavo's early career includes working as a BI Analyst at V4 Company (September 2023 to December 2023), where he managed paid traffic and performed performance analysis to generate market intelligence.
+
+Before this, he worked as a Research Student (August 2023 to November 2023) on a project that predicted school dropout rates in the Computer Science Bachelor Degree program at IFSUL, using Artificial Intelligence and neural networks.
+
+From April 2019 to January 2023, Gustavo was a Full Stack Developer at Criativittá Web, where he developed and managed websites using Ruby-on-Rails, HTML5, JavaScript, JQuery, CSS, MySQL, and other technologies.
+
+Education:
+Gustavo holds a Bachelor’s Degree in Computer Science from IFSUL (February 2018 - December 2023).
+
+Skills:
+Technical Leadership: Leading multifaceted teams and driving project success.
+Data Analysis & Visualization: Skilled in tools like Power BI, Google Analytics, and Excel.
+Full Stack Development: Experience with Ruby-on-Rails, JavaScript, HTML5, CSS, and MySQL.
+Machine Learning & AI: Successfully implemented neural network-based projects.
+Automation & CRM Implementation: Expert in automating workflows and CRM systems.
+Languages:
+Portuguese (Native)
+English (Full Professional Proficiency)
+Spanish (Professional Working Proficiency)
+Greek (Elementary)
+Certifications:
+Microsoft Certified: Azure Fundamentals
+Master Power BI - De A à Z
+Data Engineering Essentials
+Azure Databricks & Spark For Data Engineers (PySpark/SQL)
+Build Basic Generative Adversarial Networks (GANs)
+Gustavo's mix of technical expertise, leadership abilities, and hands-on experience in data analysis and development positions him as a versatile tech professional, passionate about leveraging data and technology to drive business innovation.
+
+Gustavo Pedroso Gal is a 23-year-old Computer Science graduate from IFSUL - Instituto Federal Sul-rio-grandense, currently working as a Tech Lead and Data Analyst at Ápis Company. He has a strong background in data analysis, business intelligence, and full-stack development, complemented by certifications in cloud computing and data engineering.
+
+Professional Experience:
+Tech Lead & Data Analyst at Ápis Company (December 2023 - Present): Gustavo is responsible for creating dashboards, managing KPIs, implementing CRM systems, and performing ETL (Extract, Transform, Load) operations. He oversees both new technology implementations and maintenance of existing systems, driving technology innovation and improving sales insights for clients through tools like Power BI, Python, and Excel.
+
+BI Analyst & Traffic Manager at V4 Company (September 2023 - December 2023): In this role, Gustavo managed paid traffic and analyzed performance metrics to generate market intelligence for the company.
+
+Full Stack Developer at Criativittá Web (April 2019 - January 2023): Gustavo led projects using Ruby-on-Rails, managing website development and coordinating teams. This was his first experience in the field, giving him a strong foundation in development.
+
+Research:
+Research Student at IFSUL: Gustavo worked on a project focusing on predicting school dropout rates in the Computer Science program using Machine Learning and Artificial Intelligence, particularly neural networks. This research was also central to his final university thesis.
+Skills and Competencies:
+Core Skills: Business Intelligence (BI), Data Analysis, Agile Project Management, Databases, and ETL Processes.
+Technical Expertise: Python, C++, SQL, Microsoft Excel, TensorFlow, and various cloud platforms (Azure, AWS).
+Languages: Portuguese (Native), English (Full Professional Proficiency), and Spanish (Professional Working Proficiency).
+Certifications:
+Azure and AWS: Microsoft Azure Fundamentals, Azure Data Fundamentals, AWS Certified Cloud Practitioner, AWS Data Analytics Fundamentals.
+Data & Analytics: Master Power BI, Azure Databricks & Spark (PySpark/SQL), IBM Data Engineering Professional.
+Machine Learning: TensorFlow and Build Basic Generative Adversarial Networks (GANs).
+Additional Information:
+Gustavo has hands-on experience with advanced tools and frameworks in data engineering, analytics, and AI. His passion lies in leveraging data to drive decision-making, optimize performance, and improve sales. With expertise in BI, project management, and programming, he is well-equipped to excel in roles that bridge technology and business strategy.

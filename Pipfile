@@ -20,6 +20,15 @@ streamlit-chat = "*"
 tqdm = "*"
 langchain-pinecone = "*"
 langchain-openai = "*"
+python-dotenv = "*"
+langchain-community = "*"
+ollama = "*"
+sentence-transformers = "*"
+selenium = "*"
+pypdf2 = "*"
+langchain-ollama = "*"
+firecrawl-py = "*"
+pillow = "*"
 
 [dev-packages]
 
