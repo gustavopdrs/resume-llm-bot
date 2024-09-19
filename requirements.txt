@@ -1,0 +1,6 @@
+torch==2.0.1+cpu  # Specify the CPU-only version of PyTorch
+-f https://download.pytorch.org/whl/torch_stable.html
+streamlit
+langchain
+sentence-transformers
+# Add any other required packages here
