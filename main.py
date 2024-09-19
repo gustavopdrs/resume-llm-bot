@@ -8,7 +8,10 @@ from streamlit_chat import message
 from PIL import Image
 import requests
 from io import BytesIO
+import torch
 
+# Ensure torch uses CPU
+torch.set_default_device('cpu')
 # Set page configuration
 st.set_page_config(page_title="Gustavo Gal AI Chat Assistant", layout="wide")
 

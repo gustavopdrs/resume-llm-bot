@@ -11,7 +11,10 @@ from langchain.chains.history_aware_retriever import create_history_aware_retrie
 
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain.embeddings import HuggingFaceEmbeddings
+import torch
 
+# Ensure torch uses CPU
+torch.set_default_device('cpu')
 INDEX_NAME = "langchain-pinecone"
 
 
