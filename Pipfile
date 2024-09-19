@@ -29,6 +29,7 @@ pypdf2 = "*"
 langchain-ollama = "*"
 firecrawl-py = "*"
 pillow = "*"
+torch = "*"
 
 [dev-packages]
 
