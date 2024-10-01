@@ -1,4 +1,4 @@
-torch==2.0.1+cpu  # Specify the CPU-only version of PyTorch
+torch==2.0.1+cpu -f https://download.pytorch.org/whl/torch_stable.html
 -f https://download.pytorch.org/whl/torch_stable.html
 streamlit
 langchain
